@@ -46,7 +46,7 @@
 | ![](tfc/file.svg)                  | ![](structure/file-fill.svg)             |                                              |
 | ![](tfc/repo.svg)                  | -                                        |                                              |
 | ![](tfc/settings.svg)              | ![](structure/settings.svg)              |                                              |
-|                                    | ![](structure/tune.svg)                  |                                              |
+| -                                  | ![](structure/tune.svg)                  |                                              |
 | ![](tfc/scroll-top.svg)            |                                          |                                              |
 | ![](tfc/scroll-bottom.svg)         |                                          |                                              |
 | ![](tfc/running.svg)               | -                                        | `run` in Structure is close but not the same |
