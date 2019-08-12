@@ -1,6 +1,6 @@
 # icon-audit
  
-| TFC                                | Structure                                | Notes                                        |
+| Terraform                          | Structure                                | Notes                                        |
 |:-----------------------------------|:-----------------------------------------|:---------------------------------------------|
 | ![](tfc/bolt.svg)                  | -                                        |                                              |
 | ![](tfc/add.svg)                   | ![](structure/plus-plain.svg)            |                                              |
